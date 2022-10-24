@@ -1,0 +1,28 @@
+.titulo{
+  margin-top:20px;
+  color:black;
+  font-family:helvetica;
+}
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  font-size: 16px;
+  margin-left: 4px;
+  margin-top:50px;
+
+}
+
+.txt{
+  margin-bottom: 20px;
+}
+
+
+.cor{
+  color:black;
+  background: transparent;
+  font-size: 20px;
+  font-weight: 700;
+}

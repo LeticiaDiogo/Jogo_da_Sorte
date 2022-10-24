@@ -1,0 +1,43 @@
+
+.respo{
+  font-size: 16px;
+  color:#830024;
+}
+
+.matlabel{
+  font-size: 16px;
+
+}
+
+.label02{
+  font-size: 16px;
+}
+
+.caixa{
+  margin-top: 10px;
+  width: 200px;
+  height: 30px;
+}
+
+i{
+  font-size: 12px;
+}
+
+.button{
+  width: 100px;
+  height: 50px;
+}
+
+#resposta{
+  font-size: 16px;
+  font-style: italic;
+  color:#03001c;
+}
+
+.card{
+  width: 170px;
+  display: flex;
+  align-items: center;
+  justify-content: first baseline;
+  margin-bottom: 20px;
+}
